@@ -4,10 +4,13 @@ This project analyzes US traffic accidents using a large dataset from Kaggle and
 
 ## 📊 Dashboard Highlights
 
-- Accident severity distribution across states
-- Time and day-wise accident trends
-- Weather-related accident patterns
-- Location-based accident density
+- **Total Records**: 5 Million+
+- **Top Counties**: Los Angeles, Miami-Dade, Orange
+- **State-wise Heatmap**: CA, FL, TX lead in accident counts
+- **Weather Analysis**: Severity distribution under different conditions
+- **Trend Line**: Shows peaks in accident severity over time
+- **Interactive Slicers**: Filter by City and Severity
+
 
 ![Dashboard Preview](dashboard.jpg)
 
@@ -28,4 +31,4 @@ This project analyzes US traffic accidents using a large dataset from Kaggle and
 
 ## 📬 Contact
 
-Created by [Your Name] – feel free to connect!
+Created by Sanjana – feel free to connect!
