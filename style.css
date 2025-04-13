@@ -1,0 +1,96 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f6f9; /* Soft, neutral background */
+    color: #2c3e50; /* Darker, professional text color */
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: #2980b9; /* A more muted, professional blue */
+    font-size: 2.5rem;
+}
+
+.subtitle {
+    font-size: 1.1rem;
+    color: #7f8c8d; /* Subtle gray for the subtitle */
+}
+
+.intro {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.dashboard-section {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.dashboard-img {
+    max-width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(41, 128, 185, 0.2); /* Softer shadow with the blue */
+}
+
+.features h2, .download h2 {
+    margin-top: 20px;
+    color: #2980b9; /* Same professional blue */
+}
+
+.features ul {
+    list-style: none;
+    padding-left: 0;
+    margin-top: 10px;
+}
+
+.features li {
+    background: #ecf0f1; /* Light gray for feature items */
+    padding: 10px;
+    margin: 8px 0;
+    border-left: 5px solid #2980b9; /* Consistent blue for accents */
+    border-radius: 5px;
+}
+
+.download p {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.download a {
+    color: #2980b9; /* Consistent color for links */
+    text-decoration: none;
+    font-weight: bold;
+    margin: 0 10px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 0.9rem;
+    color: #7f8c8d; /* Muted gray for footer text */
+}
+
+footer a {
+    color: #2980b9;
+    text-decoration: none;
+}
